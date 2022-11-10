@@ -17,7 +17,7 @@ Please feel free to contact us if you have any trouble or discussion via [pull r
   - [ARC-based](#arc-based)
   - [Bongard](#bongard)
   - [Natural Language for Visual Reasoning](#natural-language-for-visual-reasoning)
-  - [Raven's Progressive Matrices](#raven-progressive-matrices)
+  - [Raven's Progressive Matrices](#ravens-progressive-matrices)
   - [Additional Reads](#additonal-reads)
 - [Videos](#videos)
 - [Other Materials](#rther-materials)
